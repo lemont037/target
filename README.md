@@ -1,2 +1,3 @@
-# target
-Repository to online questionary
+# Target's Questionary
+Repository to online questionary.
+Question: invert a string.
